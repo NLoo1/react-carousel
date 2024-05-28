@@ -1,0 +1,3 @@
+- Upon reaching 3rd image, BOTH arrows break
+- On first image, clicking back arrow goes to 2nd image
+- On 2nd image, clicking back arrow goes to 3rd image
